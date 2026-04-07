@@ -2,7 +2,7 @@
 
 # RBAC System – Backend
 
-Backend de un sistema de control de acceso basado en roles (RBAC) construido con **Node.js**, **Express**, **Sequelize** y **MySQL**. Incluye autenticación JWT, 2FA con TOTP, recuperación de contraseña mediante archivo cifrado, sistema de notificaciones en tiempo real (polling), gestión de usuarios, roles, permisos y configuración dinámica de la aplicación.
+Backend de un sistema de control de acceso basado en roles (RBAC) construido con **Node.js**, **Express**, **Sequelize** y **MySQL**. Incluye autenticación JWT, 2FA con TOTP, recuperación de contraseña mediante archivo cifrado, sistema de notificaciones en tiempo real (Socket.io), gestión de usuarios, roles, permisos y configuración dinámica de la aplicación.
 
 ---
 
